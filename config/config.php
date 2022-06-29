@@ -294,6 +294,7 @@ $servers->setValue('server','host','ldap.example.com');
 
 /* The port your LDAP server listens on (no quotes). 389 is standard. */
 $servers->setValue('server','port',389);
+$servers->setValue('server','tls',true);
 
 /* Array of base DNs of your LDAP server. Leave this blank to have phpLDAPadmin
    auto-detect it for you. */
