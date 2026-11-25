@@ -1,2 +1,2 @@
 # phpmyadmin
-Fork of phpmyadmin with patch for stability
+Fork of phpldapadmin with patch for stability
